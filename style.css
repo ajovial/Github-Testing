@@ -1,3 +1,4 @@
+/* targets the h1 page title by it's id: pageTitle, adds bg color of aqua */
 #pageTitle{
     background-color: aqua;
 }
